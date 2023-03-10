@@ -1,0 +1,75 @@
+img{
+    display: inline-block;
+}
+.Second{
+    position: relative;
+    left: 200px;  
+}
+#Monster{
+    position: absolute;
+    left: 1100px;
+    top: 250px;
+    color: rgb(255, 255, 255);
+}
+#Monsterp{
+    position: absolute;
+    left: 1100px;
+    top: 290px;
+    color: rgb(255, 255, 255); 
+}
+#Born{
+    position: absolute;
+    left: 400px;
+    top: 700px;
+    color: rgb(255, 255, 255);
+}
+#Bornp{
+    position: absolute;
+    left: 400px;
+    top: 740px;
+    color: rgb(255, 255, 255); 
+}
+#Fame{
+    position: absolute;
+    left: 400px;
+    top: 250px;
+    color: rgb(255, 255, 255);
+}
+#Famep{
+    position: absolute;
+    left: 400px;
+    top: 290px;
+    color: rgb(255, 255, 255); 
+}
+#Pop{
+    position: absolute;
+    left: 1160px;
+    top: 700px;
+    color: rgb(255, 255, 255);
+}
+#Popp{
+    position: absolute;
+    left: 1160px;
+    top: 740px;
+    color: rgb(255, 255, 255); 
+}
+#Chroma{
+    position: absolute;
+    left: 400px;
+    top: 1200px;
+    color: rgb(255, 255, 255);
+}
+#Chromap{
+    position: absolute;
+    left: 400px;
+    top: 1240px;
+    color: rgb(255, 255, 255); 
+}
+#nineoneone{
+    position: absolute;
+    left: 1400px;
+    top: 10px;
+}
+body{
+    background-color: #e8dcb5;
+}
